@@ -14,7 +14,7 @@ Users can also mint NFTs from their most favorite memes, and keep a record of th
 
 ```bash
 # Clone the repository
-git clone https://github.com/iankmm/hehehub.git
+git clone https://github.com/iankmm/hehehub.git](https://github.com/Lingaraj08/heheUpdated.git
 cd hehehub
 
 # Install dependencies
